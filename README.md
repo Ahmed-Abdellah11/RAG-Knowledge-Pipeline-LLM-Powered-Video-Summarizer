@@ -169,6 +169,4 @@ you're on the current version of this file if you hit that error.
 - Add multi-video retrieval — index several videos and retrieve across all
   of them for a "search my watch history" style assistant.
 
-## License
-
-MIT
+Ahmed Abdellah - AI Engineer
