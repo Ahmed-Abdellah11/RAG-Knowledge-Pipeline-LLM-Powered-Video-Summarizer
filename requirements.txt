@@ -1,0 +1,8 @@
+streamlit>=1.32
+youtube-transcript-api>=0.6.2
+sentence-transformers>=2.5.1
+faiss-cpu>=1.8.0
+transformers>=4.39.0
+sentencepiece>=0.1.99
+torch>=2.1.0
+numpy>=1.26.0
